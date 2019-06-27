@@ -34,9 +34,7 @@ print("hello lua")
 #### java go
 
 ```go
-/*
- 被/**/包围
-*/
+/*包围的*/
 fmt.Println("hello go")
 ```
 
